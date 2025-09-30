@@ -49,9 +49,12 @@ A full-stack blog application built with FastAPI (backend) and vanilla JavaScrip
 1. Clone the repository:
 ```bash
 git clone https://github.com/AtharvaDomale/Blog-API-with-File-Upload---Full-Stack-Project.git
+cd Blog-API-with-File-Upload---Full-Stack-Project
+```
 
 
-## API Endpoints
+
+### API Endpoints
 
 ### Posts
 
